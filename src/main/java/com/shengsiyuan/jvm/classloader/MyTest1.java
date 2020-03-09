@@ -38,6 +38,6 @@ class MyChild extends MyParent1 {
     public static String str2 = "welcome";
 
     static {
-        System.out.println("MyChild static bloack");
+        System.out.println("MyChild static block");
     }
 }
